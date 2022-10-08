@@ -1,0 +1,25 @@
+h2{
+    margin: 15px 0;
+    padding: 10px 0;
+    text-transform: capitalize;
+    color: #ffffff;
+    background-color: #626262;
+}
+
+.r_1{
+   
+    margin-bottom: 15px;
+    --bs-gutter-x: 0;
+
+}
+
+.box{
+    margin-bottom: 5px;
+    min-height: 100px;
+    background-color: red;
+}
+.mh_300{
+    min-height: 300px;
+    background-color: black;
+  
+}
